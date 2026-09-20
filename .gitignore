@@ -1,16 +1,8 @@
-# macOS / R housekeeping
 .DS_Store
 .Rhistory
-
-# Jupyter / Python temporary files
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-
-# Raw source data - not included in repository
-data/raw/
-
-# Local environments
 .env
 venv/
 .venv/

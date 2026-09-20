@@ -1,6 +1,28 @@
-## Data Sources & Links: 
+# Data Sources & Links: 
+
+## Nesta
 
 Mateos-Garcia, J. (2018). Creative Nation open data. [online] Nesta, 14 February. Available at: https://www.nesta.org.uk/blog/creative-nation-open-data/ 
+
+The dataset contains ONS statistical data. Nesta provides the following
+acknowledgement:
+
+This work contains statistical data from ONS which is Crown Copyright.
+
+The use of the ONS statistical data does not imply ONS endorsement of
+the interpretation or analysis.
+
+## 2011 Census data and geography lookup
+
+Census tables were downloaded from Nomis.
+
+The LSOA (2011) to Travel to Work Area (2011) lookup was obtained from
+the ONS Open Geography Portal.
+
+Source: Office for National Statistics.
+
+ONS/Nomis material is reused under the Open Government Licence.
+
 
 Office for National Statistics (2013a). 2011 Census: Highest level of qualification (QS501EW). [dataset] Nomis. Available at: https://www.nomisweb.co.uk/census/2011/qs501ew 
 
