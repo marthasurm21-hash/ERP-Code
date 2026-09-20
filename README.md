@@ -4,6 +4,8 @@ Code and supporting materials for an MSc research project examining
 the structure of creative economies across TTWAs in
 England and Wales.
 
+Student number: 14343489
+
 ## Repository structure
 
 - `notebooks/` - data preparation, analysis and robustness checks
